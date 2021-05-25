@@ -1,7 +1,7 @@
 
 public class HolaMundo {
- int sumar(int x,int y) {
-	 return x+y;
+ int dividir(int x,int y) {
+	 return x/y;
  }
 	public static void main(String[] args) {
 System.out.println("Hola mundo");
