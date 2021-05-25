@@ -1,8 +1,8 @@
 
 public class HolaMundo {
-  int restar(int x,int y) {
+  int multiplicar(int x,int y) {
 	 
-	  return x-y;
+	  return x*y;
   }
 	public static void main(String[] args) {
 System.out.println("Hola mundo");
